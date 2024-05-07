@@ -1,0 +1,13 @@
+#Pandas (Integração do excel com o python)
+#Openpyxl (Integração do excel com o python)
+#Twilio (Integração python com SMS)
+
+#.\env\Scripts\activate.ps1   
+
+# Passo a passo da solução 
+
+# 1 - Abrir os 6 arquivos em Excel
+# Para cada arquivo:
+# 2 - Verificar se algum valor na coluna Vendas daquele arquivo é maior que 55.000
+# 3 - Se for maior do que 55.000 -> Enviar um SMS com o Nome,o m?ês e as vendas do vendedor
+# 4 - Caso não seja maior do que  55.000, não quero fazer nada 
